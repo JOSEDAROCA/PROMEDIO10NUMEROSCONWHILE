@@ -1,0 +1,2 @@
+# PROMEDIO10NUMEROSCONWHILE
+Created with CodeSandbox
